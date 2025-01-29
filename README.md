@@ -107,6 +107,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 - **ASCII Art**: Gerado com [figlet](https://www.npmjs.com/package/figlet).
 - **Cores no Terminal**: Estilizado com [chalk](https://www.npmjs.com/package/chalk).
 - **Interface Interativa**: Criada com [inquirer](https://www.npmjs.com/package/inquirer).
+- **Feito Com Amor**: Pelo [RaphaelTW](https://github.com/RaphaelTW).
 
 ---
 
